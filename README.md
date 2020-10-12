@@ -1,2 +1,5 @@
-# datamotif-statis
-Kumpulan contoh data statis untuk platform deteksi motif jaringan
+# Kumpulan contoh data motif statis
+
+* statis-small.csv - 10.000 Row
+* statis-medium.csv - 100.000 Row
+* statis-large.csv - 1.000.000 Row

@@ -1,8 +1,8 @@
 # Kumpulan contoh data motif statis
 
-* statis-small.csv - 10.000 Row
-* statis-medium.csv - 100.000 Row
-* statis-large.csv - 1.000.000 Row
+* statis-small.csv - 10.000 Row (Estimasi waktu pemrosesan: 1 - 5 Detik)
+* statis-medium.csv - 100.000 Row (Estimasi waktu pemrosesan: 6 - 10 Detik)
+* statis-large.csv - 1.000.000 Row (Estimasi waktu pemrosesan: 10 -15 Detik)
 
 ## Format Data
 
